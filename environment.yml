@@ -1,0 +1,13 @@
+name: wmdev
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - seaborn
+  - statsmodels
+  - scikit-learn
+  - pip
+  - pip:
+    - lxml
+    - matplotlib==3.6.3
