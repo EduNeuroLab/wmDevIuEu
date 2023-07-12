@@ -5,4 +5,4 @@ The Dockerfile and notebook in the "mrtrix_pipeline" directory illustrate how we
 The notebook "codeForMainFigures" shows how all the main statistical analyses were performed and how the main figures were created.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EduNeuroLab/wmDevAroundBirth/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EduNeuroLab/wmDevIuEu/HEAD)
